@@ -1,0 +1,1 @@
+echo "Deploying Project on date= %date% and time= %time%"
