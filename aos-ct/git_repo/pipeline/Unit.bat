@@ -1,1 +1,0 @@
-echo "Unit test of  Project on date= %date% and time= %time%"
