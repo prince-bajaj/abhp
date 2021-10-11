@@ -1,0 +1,1 @@
+echo "Building Project on date= %date% and time= %time%"
